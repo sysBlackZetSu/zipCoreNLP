@@ -33,3 +33,8 @@ Tải lại mô hình và tokenizer từ đường dẫn đã lưu.
 Dự Đoán Trên Văn Bản Mới:
 
 Sử dụng mô hình và tokenizer đã tải để dự đoán trên một đoạn văn bản mới.
+
+
+Ref data test: 
+- https://github.com/tyqiangz/multilingual-sentiment-datasets/blob/main/data
+- https://huggingface.co/datasets/tyqiangz/multilingual-sentiments
