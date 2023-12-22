@@ -9,8 +9,8 @@ Tạo một đối tượng DatasetDict để lưu trữ các tập dữ liệu 
 
 # Giới Hạn Dữ Liệu Huấn Luyện:
 Sử dụng hàm select từ datasets để giới hạn tập dữ liệu huấn luyện thành một phần nhỏ.
-Chuẩn Bị Tham Số Cho Quá Trình Huấn Luyện:
 
+#Chuẩn Bị Tham Số Cho Quá Trình Huấn Luyện:
 Định nghĩa các tham số như đường dẫn đầu ra, số epochs, tốc độ học, kích thước batch, và các tham số khác cho quá trình đào tạo.
 Tạo một đối tượng TrainingArguments để chứa các tham số đào tạo.
 
